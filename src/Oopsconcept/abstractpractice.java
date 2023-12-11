@@ -20,6 +20,7 @@ public class abstractpractice extends abstractclass1 {
 	@Override
 	public void absmethod1() {
 		System.out.println("implemented");
+		System.out.println("Modified");
 	}
 
 }
